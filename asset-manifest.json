@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/igor-video-editor/static/css/main.b63e4930.css",
+    "main.js": "/igor-video-editor/static/js/main.f8248fac.js",
+    "static/js/787.3fc948b1.chunk.js": "/igor-video-editor/static/js/787.3fc948b1.chunk.js",
+    "static/media/Inter-Medium.eot": "/igor-video-editor/static/media/Inter-Medium.8701febefeb9a684fecb.eot",
+    "static/media/Inter-Medium.ttf": "/igor-video-editor/static/media/Inter-Medium.2410c918aaaa7ff543e9.ttf",
+    "static/media/Inter-Bold.eot": "/igor-video-editor/static/media/Inter-Bold.fbbe32f9fbca059dea9a.eot",
+    "static/media/Inter-Bold.ttf": "/igor-video-editor/static/media/Inter-Bold.07f96db27795efa32f49.ttf",
+    "static/media/Inter-Regular.eot": "/igor-video-editor/static/media/Inter-Regular.783753a45614859189e1.eot",
+    "static/media/Inter-Regular.ttf": "/igor-video-editor/static/media/Inter-Regular.22afadb2eb23774ae0d1.ttf",
+    "static/media/Inter-Bold.svg": "/igor-video-editor/static/media/Inter-Bold.29a77b7e0aa49b534323.svg",
+    "static/media/Inter-Medium.svg": "/igor-video-editor/static/media/Inter-Medium.16eda82a3c37a6edda09.svg",
+    "static/media/Inter-Regular.svg": "/igor-video-editor/static/media/Inter-Regular.a416f4674fad5f019461.svg",
+    "static/media/Inter-Bold.woff": "/igor-video-editor/static/media/Inter-Bold.c01b2dd734d86f013352.woff",
+    "static/media/Inter-Medium.woff": "/igor-video-editor/static/media/Inter-Medium.47dab40ed900460afcc0.woff",
+    "static/media/Inter-Regular.woff": "/igor-video-editor/static/media/Inter-Regular.ae2ac50c3db4c5420cf8.woff",
+    "index.html": "/igor-video-editor/index.html",
+    "main.b63e4930.css.map": "/igor-video-editor/static/css/main.b63e4930.css.map",
+    "main.f8248fac.js.map": "/igor-video-editor/static/js/main.f8248fac.js.map",
+    "787.3fc948b1.chunk.js.map": "/igor-video-editor/static/js/787.3fc948b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b63e4930.css",
+    "static/js/main.f8248fac.js"
+  ]
+}
