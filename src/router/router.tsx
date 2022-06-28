@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes, Navigate, Outlet } from 'react-router-dom';
+import { Route, Routes, HashRouter } from 'react-router-dom';
 import Layout from '../components/layout';
 import Step1 from '../pages/step-1';
 import EmaleChosing from '../pages/emale-chosing';
@@ -11,7 +11,7 @@ import { GeneralInfo } from '../pages/general-info';
 
 function Router() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path='/' element={<Layout />}>
           <Route index element={<EmaleChosing />} />
@@ -23,7 +23,7 @@ function Router() {
           <Route path='/finish' element={<Finish />} />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
